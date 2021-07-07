@@ -1,7 +1,6 @@
 # FutureMakers
 
-##
-Responses
+## Responses
 ##
 7/6
 
