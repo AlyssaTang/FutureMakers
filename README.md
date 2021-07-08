@@ -7,5 +7,6 @@ I have previously learned about the basic concepts of AI and machine learning, h
 ##
 
 ## 7/7
+Dr. Kong showed us the power of storytelling with the videos and examples. They were so compelling and we were clearly moved to action. After his talk, I went through introspection to think of my own story. I’m still trying to dig deeper to find the true motivation for my passions for AI and health. It was such a privilege to be part of Dr. Kong’s leadership development session.
 
 ##
