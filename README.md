@@ -18,5 +18,5 @@ ii. Describe why the following statement is FALSE: Scikit-Learn has the power to
 
 SkiKit Learn provides supervised and unsupervised learning algorithms but not visualization methods. Graphviz, Pandas, or other data analysis libraries are necessary to visualize the data.
 
-
+I learned about the steps of machine learning, the ML algorithm framework, and types of machine learning. The mentors gave great explanations and analogies to help us better understand the concepts. Previously, I hadn't known the difference between standardization (a mean of zero and a standard deviation of one [-1,1]) and normalization [0,1]. From Ms. Yohn, the scenarios of students feeling excluded and discussing solutions was helpful as a reminder. 
 ##
