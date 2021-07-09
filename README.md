@@ -11,9 +11,11 @@ Dr. Kong showed us the power of storytelling with the videos and examples. They 
 
 ## 7/8
 i. What is the difference between supervised and unsupervised learning?
+
 In supervised machine learning: the program fed labels that correspond with the training examples. When given new data, it is able to decide the classification based on the labeled training data. On the other hand, in unsupervised machine learning, the program is given no labels and a bunch of data. It must find patterns and relationships within the data and use clustering methods.
 
 ii. Describe why the following statement is FALSE: Scikit-Learn has the power to visualize data without a Graphviz, Pandas, or other data analysis libraries.
+
 SkiKit Learn provides supervised and unsupervised learning algorithms but not visualization methods. Graphviz, Pandas, or other data analysis libraries are necessary to visualize the data.
 
 
