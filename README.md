@@ -1,4 +1,4 @@
-# FutureMakers Responses
+# Responses
 
 ## 7/6
 It was really inspiring to hear the stories of middle school and high school girls making a real impact on their community through their app that allows residents to make appointments for water distribution. During the first day, I learned how to use anaconda as opposed to pip to download libraries, and experimented with using Pycharm since I had previously used mostly Colab and Jupyter notebooks.
