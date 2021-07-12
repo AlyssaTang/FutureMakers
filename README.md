@@ -23,7 +23,7 @@ SkiKit Learn provides supervised and unsupervised learning algorithms but not vi
 ##
 
 ## 7/9
-Waste management is an issue in the US since most of the wastes end up in landfills. Eutrophication of lakes, consumption of toxic waste by animals, and land, water, air pollution are resulting problems. This dataset classifies household waste by Organic (O) and Recyclable (R). I would utilize the CNN deep learning model since neural networks are best fitted for image classification. 
+Waste management is an issue in the US since most of the wastes end up in landfills. Eutrophication of lakes, consumption of toxic waste by animals, and land, water, air pollution are resulting problems. This dataset classifies household waste by Organic (O) and Recyclable (R). I would utilize the CNN deep learning model since neural networks are the best fit for image classification. 
 
 Dataset: https://www.kaggle.com/beyzanks/waste-classification-with-cnn
 ##
