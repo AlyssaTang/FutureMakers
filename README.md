@@ -29,5 +29,16 @@ Dataset: https://www.kaggle.com/beyzanks/waste-classification-with-cnn
 ##
 
 ## 7/12
+1. What are “Tensors” and what are they used for in Machine Learning?
+
+Tensors are multidimensional data arrays that neural networks can perform on. Plane vectors are a type of tensor in which there is a x,y coordinate system that a vector is plotted on. Covectors and linear operators are other types of tensors. I learned about ranks of tensors in N-dimension spaces and that tensors generally refer to a vector that is three or more dimensions. Tensors are used in Machine Learning with Tensorflow as the library does numerical computations on tensors. Tensors are the basic building blocks of modern machine learning. They can be thought of as a container storing arrays of data.
+
+
+2. What did you notice about the computations that you ran in the TensorFlow programs (i.e. interactive models) in the tutorial?
+
+I noticed that the images were different dimensions which is the reason preprocessing data to ensure all of them are the same length is important. It was interesting to experiment with the subplot function and see how the bar graph corresponded to the number of pictures of each type of sign (Label 1-61). I also encountered errors due to version differences. Most of the cells of code required transformation from TensorFlow 1 to TensorFlow 2, so I had to do a lot of googling of errors that resulted from the change. 
+##
+
+## 7/13
 
 ##
