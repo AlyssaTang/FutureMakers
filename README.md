@@ -39,6 +39,13 @@ Tensors are multidimensional data arrays that neural networks can perform on. Pl
 I noticed that the images were different dimensions which is the reason preprocessing data to ensure all of them are the same length is important. It was interesting to experiment with the subplot function and see how the bar graph corresponded to the number of pictures of each type of sign (Label 1-61). I also encountered errors due to version differences. Most of the cells of code required transformation from TensorFlow 1 to TensorFlow 2, so I had to do a lot of googling of errors that resulted from the change. 
 ##
 
-## 7/13
+## 7/15
+1. How do you think Machine Learning or AI concepts were utilized in the design of this game?
+
+The “Survival of the Best Fit” game demonstrates sample bias since a majority of the applicants that applied initially when a human was screening the applicants were yellow, so the machine learning model assumed that yellow people are candidates that we want more than blue people. This bias led a perfectly qualified applicant to be rejected simply because he was a blue applicant. Additionally, the game demonstrated the importance of recognizing that historical data may reflect biases both explicit and implicit in the machine learning algorithm. 
+
+2. Can you give a real-world example of a biased machine learning model, and share your ideas on how you make this model more fair, inclusive, and equitable? Please reflect on why you selected this specific biased model.
+
+Unfortunately, banks using AI to make credit decisions are unknowingly discriminating against people on the basis of race, gender, and sexual orientation due to the historical data it was fed. Biased data leads to bias models which can exacerbate pre-existing disparities. Being able to get a loan to buy a house is the first step to building financial security and bridging the wealth gap. It is important to make the model more fair, inclusive, and equitable in order to level the playing field for this minority group. Even though the bank companies do not explicitly ask for those specific pieces of demographic data, they can learn the association of zip codes to ethical minorities. Adversarial AI-driven models can be used to detect these protected characteristics and correct the bank loaning model. According to the Harvard Business Review, “this re-tunes the model to increase the influence of variables which contribute to equity and reduce those that contribute to bias,until the challenger model is no longer able to predict ethnicity by using zip codes as a proxy.”
 
 ##
