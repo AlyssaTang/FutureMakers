@@ -39,6 +39,14 @@ Tensors are multidimensional data arrays that neural networks can perform on. Pl
 I noticed that the images were different dimensions which is the reason preprocessing data to ensure all of them are the same length is important. It was interesting to experiment with the subplot function and see how the bar graph corresponded to the number of pictures of each type of sign (Label 1-61). I also encountered errors due to version differences. Most of the cells of code required transformation from TensorFlow 1 to TensorFlow 2, so I had to do a lot of googling of errors that resulted from the change. 
 ##
 
+## 7/13
+The head mentors taught us a lot about the ANN architecture and the different types of neural networks. We learned about weights, neurons with thresholds, activation functions, weights and biases. I learned the difference between feed-forward and back propagation neural networks. I knew what RNNs were generally, but hadn’t known that the information cycles in a loop so that was interesting.
+##
+
+## 7/14
+I learned about CNNs and the element-wise matrix multiplication of the pixel value with the filter size that is then summed up to create a new feature map.Activation layer, fully-connected layer and pooling operation were also discussed.
+##
+
 ## 7/15
 1. How do you think Machine Learning or AI concepts were utilized in the design of this game?
 
