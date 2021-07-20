@@ -62,5 +62,9 @@ Today, I was able to get a deeper understanding of CNN components from flattenin
 ##
 
 ## 7/19
+I learned about loss functions for regression and classification. There are two types of classification - binary and multi-class classification which use different types of loss functions. We also explored MSE, MAE, and MSLE for regression and cross-entropy for classification. 
+##
+
+## 7/20
 
 ##
