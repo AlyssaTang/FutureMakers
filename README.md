@@ -55,5 +55,12 @@ The “Survival of the Best Fit” game demonstrates sample bias since a majorit
 2. Can you give a real-world example of a biased machine learning model, and share your ideas on how you make this model more fair, inclusive, and equitable? Please reflect on why you selected this specific biased model.
 
 Unfortunately, banks using AI to make credit decisions are unknowingly discriminating against people on the basis of race, gender, and sexual orientation due to the historical data it was fed. Biased data leads to bias models which can exacerbate pre-existing disparities. Being able to get a loan to buy a house is the first step to building financial security and bridging the wealth gap. It is important to make the model more fair, inclusive, and equitable in order to level the playing field for this minority group. Even though the bank companies do not explicitly ask for those specific pieces of demographic data, they can learn the association of zip codes to ethical minorities. Adversarial AI-driven models can be used to detect these protected characteristics and correct the bank loaning model. According to the Harvard Business Review, “this re-tunes the model to increase the influence of variables which contribute to equity and reduce those that contribute to bias,until the challenger model is no longer able to predict ethnicity by using zip codes as a proxy.”
+##
+
+## 7/16
+Today, I was able to get a deeper understanding of CNN components from flattening to parameters such as the depth, stride, and padding. I also explored implementing a CNN for the MNIST dataset. 
+##
+
+## 7/19
 
 ##
