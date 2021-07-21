@@ -66,5 +66,13 @@ I learned about loss functions for regression and classification. There are two 
 ##
 
 ## 7/20
+I learned about linear and nonlinear activation functions and which ones are used for regression and classification as well as hidden and output layers. 
+##
+
+## 7/21
+
+##
+
+## 7/22
 
 ##
