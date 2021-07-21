@@ -68,8 +68,7 @@ I learned about loss functions for regression and classification. There are two 
 ## 7/20
 I learned about linear and nonlinear activation functions and which ones are used for regression and classification as well as hidden and output layers. 
 
-Action Item: The ReLU activation function is the most common function used for hidden layers. One of the advantages is that it is easy to implement. Another benefit is that it is effective at overcoming the limitations, such as vanishing gradients, of other previously popular activation functions, such as Sigmoid and Tanh. They work best on CNNs and Multilayer perceptrons for hidden layer activation functions. Models that uses it are also easier to train and often achieves better performance.
-
+Action Item: The ReLU activation function is the most common function used for hidden layers. One of the advantages is that it is easy to implement. Another benefit is that it is effective at overcoming the limitations, such as vanishing gradients, of other previously popular activation functions, such as Sigmoid and Tanh. They work best on CNNs and Multilayer perceptrons for hidden layer activation functions. Models that use it are also easier to train and often achieve better performance.
 ##
 
 ## 7/21
