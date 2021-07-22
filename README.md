@@ -72,7 +72,7 @@ Action Item: The ReLU activation function is the most common function used for h
 ##
 
 ## 7/21
-
+I learned about the importance of ethical AI and the difficulties that come with regulation since companies often do not fully disclose algorithmic details. When COMPAS was used to evaluate risk of violent recidivism as a score, it was severely biased towards blacks.
 ##
 
 ## 7/22
