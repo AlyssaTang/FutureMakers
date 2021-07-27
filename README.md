@@ -82,3 +82,8 @@ I learned how to build an Image Classification model and adjusted some of the hy
 ## 7/23
 I learned about overfitting and underfitting, how to determine based on graphs if it is doing either of the two, as well as methods to fix these issues. Overfitting models can be detrimental if they perform badly on testing data. If an overfitting model was used at a bank and therefore classify a person as unlikely to pay back their loans when they could have, then the person may be denied credit unfairly.
 ##
+
+## 7/26
+I learned about autoencoders as well as downsampling (decreasing size of input images) and upsampling (opposite of downsampling; returning input to original size). I developed an autoencoder based reconstruction and noise removal and added upscaling layers to a deep
+learning mode.
+##
