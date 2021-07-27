@@ -76,5 +76,9 @@ I learned about the importance of ethical AI and the difficulties that come with
 ##
 
 ## 7/22
+I learned how to build an Image Classification model and adjusted some of the hyperparameters and model architecture to try to improve the accuracy and minimize the loss for the CNN model predicting dogs and cats from images. 
+##
 
+## 7/23
+I learned about overfitting and underfitting, how to determine based on graphs if it is doing either of the two, as well as methods to fix these issues. Overfitting models can be detrimental if they perform badly on testing data. If an overfitting model was used at a bank and therefore classify a person as unlikely to pay back their loans when they could have, then the person may be denied credit unfairly.
 ##
