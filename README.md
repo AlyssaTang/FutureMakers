@@ -91,3 +91,9 @@ learning mode.
 ## 7/27
 Today, I learned about affective computing and using computer vision to detect facial expressions of drivers. It was used to detect the level of drowsiness. From the guest speaker, we learned about the STAR (Situation, task, action, result) technique which would be very helpful in interviewing!
 ##
+
+## 7/28
+I learned about NLP and the different applications, considerations, and the different steps involved in the preprocessing.
+
+As for the ethical implications of big NLP models such as GPT-2, although it can be a wonderful tool, it can also learn from biased data it is fed. If some of the text the model is trained on is making descriminatory remarks on the basis of gender, race, color, religion, sex, national origin, age, or disability, the model could reflect that sentiment in the paragraphs they generate. 
+##
