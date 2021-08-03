@@ -87,3 +87,7 @@ I learned about overfitting and underfitting, how to determine based on graphs i
 I learned about autoencoders as well as downsampling (decreasing size of input images) and upsampling (opposite of downsampling; returning input to original size). I developed an autoencoder based reconstruction and noise removal and added upscaling layers to a deep
 learning mode.
 ##
+
+## 7/27
+Today, I learned about affective computing and using computer vision to detect facial expressions of drivers. It was used to detect the level of drowsiness. From the guest speaker, we learned about the STAR (Situation, task, action, result) technique which would be very helpful in interviewing!
+##
