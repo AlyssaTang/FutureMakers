@@ -98,6 +98,14 @@ I learned about NLP and the different applications, considerations, and the diff
 As for the ethical implications of big NLP models such as GPT-2, although it can be a wonderful tool, it can also learn from biased data it is fed. If some of the text the model is trained on is making descriminatory remarks on the basis of gender, race, color, religion, sex, national origin, age, or disability, the model could reflect that sentiment in the paragraphs they generate. 
 ##
 
+## 7/29
+I learned about the uses of computer vision and the differences between traditional CV and deep learning. Deep Learning-based Emotion Classification from Face and affective computing were also interesting topics that were covered.
+##
+
+## 7/30
+Today, we reviewed the topics we had covered in the past weeks as well as the python libraries and machine learning tasks.
+##
+
 ## 8/2
 Today, my team researched our potential ideas for the create-a-thon and decided to focus on the broad topic of Physical Health and Mental Well-being Management. We each researched more specific issues within this field individually or in small groups to pitch the next day.
 ##
