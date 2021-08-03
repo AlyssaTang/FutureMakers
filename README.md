@@ -97,3 +97,11 @@ I learned about NLP and the different applications, considerations, and the diff
 
 As for the ethical implications of big NLP models such as GPT-2, although it can be a wonderful tool, it can also learn from biased data it is fed. If some of the text the model is trained on is making descriminatory remarks on the basis of gender, race, color, religion, sex, national origin, age, or disability, the model could reflect that sentiment in the paragraphs they generate. 
 ##
+
+## 8/2
+Today, my team researched our potential ideas for the create-a-thon and decided to focus on the broad topic of Physical Health and Mental Well-being Management. We each researched more specific issues within this field individually or in small groups to pitch the next day.
+##
+
+## 8/3
+Today, we decided to continue to pursue the topic Sahana and I had researched the previous day: an app or wearable device that uses computer vision and emotion recognition technology to give instant feedback on real interactions for people with autism as well as emotion regulation software that warn them if they’re starting to get aggravated and implement calming mechanism of their choice (ex: a calming/favorite song, video or book, counting to ten w/ deep breath, meditation, etc). We also worked on a questionnaire to survey people with autism and their family and friends.
+##
